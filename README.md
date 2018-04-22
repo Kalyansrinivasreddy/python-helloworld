@@ -1,2 +1,2 @@
 # python-helloworld
-Test project in python
+Sample project in python
